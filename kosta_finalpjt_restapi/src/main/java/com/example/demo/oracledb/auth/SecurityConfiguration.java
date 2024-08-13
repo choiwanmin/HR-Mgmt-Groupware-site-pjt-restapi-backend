@@ -21,14 +21,15 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 @Configuration
 public class SecurityConfiguration {
-	
-	private final MyTokenProvider myTokenProvider;
-	
+
+//	private final MyTokenProvider myTokenProvider;
+    private final JwtAuthenticationFilter jwtAuthenticationFilter;
+
 	@Bean
 	public PasswordEncoder passwordEncoder() {
 		return PasswordEncoderFactories.createDelegatingPasswordEncoder();
 	}
-	
+
 	@Bean
 	public AuthenticationManager authenticationManager(AuthenticationConfiguration authenticationConfiguration)
 			throws Exception {
@@ -37,34 +38,21 @@ public class SecurityConfiguration {
 
 	@Bean
 	public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
-		http.httpBasic(HttpBasicConfigurer::disable)
-		.csrf(CsrfConfigurer::disable)
-		.cors(Customizer.withDefaults())
-		.authorizeHttpRequests((authz) -> authz
-						.requestMatchers("/index_admin").hasRole("ADMIN")
-						.requestMatchers("/index_emp").hasRole("EMP")
-						.requestMatchers("/css/**","/img/**","/js/**").permitAll()
-						.dispatcherTypeMatchers(DispatcherType.FORWARD).permitAll()
+		http.httpBasic(HttpBasicConfigurer::disable).csrf(CsrfConfigurer::disable).cors(Customizer.withDefaults())
+				.authorizeHttpRequests((authz) -> authz.requestMatchers("/index_admin").hasRole("ADMIN")
+						.requestMatchers("/index_emp").hasRole("EMP").requestMatchers("/css/**", "/img/**", "/js/**")
+						.permitAll().dispatcherTypeMatchers(DispatcherType.FORWARD).permitAll()
 						.requestMatchers("/auth/**", "/index_**", "/admin/**").authenticated()
-						.requestMatchers("/", "/error", "/login", "/idcheck", "/user/**", "/member/**", "/corp/**", "/files/**", "/chat/**","/mail/**").permitAll()
-						.anyRequest().permitAll()
-						)
-//				.formLogin((login) -> login.loginPage("/loginform")
-//						.loginProcessingUrl("/login")
-//						.failureForwardUrl("/loginerror")
-//						.usernameParameter("id")
-//						.passwordParameter("pwd")
-//						.defaultSuccessUrl("/", true).permitAll()
-//						.successHandler(new MySuccessHandler())
-//						.failureHandler(new MyFailureHandler())
-//						);
-//				.and()
-//						.logout()
-//						.logoutUrl("/logout")
-//						.logoutSuccessUrl("/")
-			.addFilterBefore(new JwtAuthenticationFilter(myTokenProvider), UsernamePasswordAuthenticationFilter.class);
-		http.sessionManagement(configure -> configure.sessionCreationPolicy(SessionCreationPolicy.STATELESS)); //>>세터사용하지 않게다
+						.requestMatchers("/", "/error", "/login", "/idcheck", "/user/**", "/member/**", "/corp/**",
+								"/files/**", "/chat/**", "/mail/**")
+						.permitAll().anyRequest().permitAll())
+//				.addFilterBefore(new JwtAuthenticationFilter(myTokenProvider),
+//						UsernamePasswordAuthenticationFilter.class);
+		.addFilterBefore(jwtAuthenticationFilter,
+				UsernamePasswordAuthenticationFilter.class);
+		http.sessionManagement(configure -> configure.sessionCreationPolicy(SessionCreationPolicy.STATELESS)); // >>세터사용하지
+																												// 않게다
 		return http.build();
 	}
-	
+
 }
