@@ -35,21 +35,6 @@
 ## 주요 기능
 
 ## 주요 작업 내용
-> ### 개발 담당 영역
-* `HRD SYSTEM` 영역
- 
-|이름|담당 영역|
-|:---|:---|
-|최  (팀장)|`USERS`, `MEMBERS`, `WORK&EDU`|
-|진  |`WORK_RECORD`|
-
-* `GROUPWARE SYSTEM` 영역
- 
-|이름|담당 영역|
-|:---|:---|
-|백  |`DOCX`|
-|정  |`MAIL`,`SCHEDULER`|
-|황  |`CHAT`|
 
 ## 프로젝트 아키텍쳐
 
