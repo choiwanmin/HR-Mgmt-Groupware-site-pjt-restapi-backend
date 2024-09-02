@@ -54,7 +54,14 @@
 ## 프로젝트 아키텍쳐
 
 ## 클라이언트 화면 UI
-*※ 2024/00/00 기준 데이터 UI*
+<details>
+<summary>Front-End 결과물</summary>
+<div markdown="1">
+
+Front-End 결과물
+
+</div>
+</details>
 
 ## 기타
 > ### DB ERD
