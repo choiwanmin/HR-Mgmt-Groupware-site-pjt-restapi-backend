@@ -52,11 +52,19 @@ Front-End 결과물
 ## 기타
 > ### DB ERD
 
+<details>
+<summary>DB ERD 보기</summary>
+<div markdown="1">
+
+</div>
+</details>
+
 > ### 프로젝트 구조
+
 <details>
 <summary>프로젝트 구조 보기</summary>
 <div markdown="1">
-
+ 
 ```
 📦kosta_final_pjt_restapi_backend_review
 ┣ 📂.git
