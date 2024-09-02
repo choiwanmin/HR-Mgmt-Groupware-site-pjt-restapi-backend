@@ -32,7 +32,7 @@
 |SEVER||
 |ETC.||
 
-## 주요 기능능
+## 주요 기능
 
 ## 주요 작업 내용
 > ### 개발 담당 영역
@@ -54,6 +54,7 @@
 ## 프로젝트 아키텍쳐
 
 ## 클라이언트 화면 UI
+
 <details>
 <summary>Front-End 결과물</summary>
 <div markdown="1">
