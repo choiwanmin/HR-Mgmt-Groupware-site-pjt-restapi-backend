@@ -67,6 +67,10 @@ Front-End 결과물
 > ### DB ERD
 
 > ### 프로젝트 구조
+<details>
+<summary>프로젝트 구조 보기</summary>
+<div markdown="1">
+
 ```
 📦kosta_final_pjt_restapi_backend_review
 ┣ 📂.git
@@ -229,3 +233,6 @@ Front-End 결과물
 ┃ ┣ 📜mvnw.cmd
 ┃ ┗ 📜pom.xml
 ```
+
+</div>
+</details>
