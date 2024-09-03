@@ -64,6 +64,18 @@ Front-End 결과물
 </div>
 </details>
 
+> ### 프로젝트 흐름도
+
+<details>
+<summary>프로젝트 흐름도 보기</summary>
+<div markdown="1">
+
+ |![kosta_final_pjt_ppt_ver_fianl_flow](https://github.com/choiwanmin/kosta_final_pjt/assets/111493653/ea5a340a-7cc2-4041-86d2-10a8f2ea69bb)|
+ |:---:|
+ 
+</div>
+</details>
+
 > ### 프로젝트 구조
 
 <details>
