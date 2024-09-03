@@ -24,13 +24,13 @@
 ## 기술 스택
 |구분|사용 기술|
 |:---|:---|
-|Front-end||
-|Back-end ||
-|DB||
-|IDE||
-|SCM||
-|SEVER||
-|ETC.||
+|Front-end|`HTML`, `CSS`, `Javascript`, `Bootstrap`, `React`, `npm`|
+|Back-end|`Java`, `Maven`, `Spring Boot`, `Spring Data JPA`, `JDBC API`, `Oracle Driver`, `Lombok`, `Spring Security`, `WebSocket` 등|
+|DBMS|`Oracle`|
+|SEVER|`Apache Tomcat`, `AWS EC2(Ubuntu)`, `Docker` 등|
+|IDE|`Eclipse`, `IntelliJ`, `Oracle Sql Developer`|
+|SCM|`Git & Github`|
+|ETC.|`Notion`, `Kakaotalk`, `ChatGPT` 등|
 
 ## 주요 기능
 
