@@ -39,6 +39,8 @@
 ## 주요 작업 내용
 
 ## 프로젝트 아키텍쳐
+|![finalpjt_architecture](https://github.com/user-attachments/assets/fda679aa-ceae-4c2e-b0f2-0e44103fd022)|
+|:---:|
 
 ## 클라이언트 화면 UI
 
@@ -70,7 +72,7 @@ Front-End 결과물
 <summary>프로젝트 흐름도 보기</summary>
 <div markdown="1">
 
- |![kosta_final_pjt_ppt_ver_fianl_flow](https://github.com/choiwanmin/kosta_final_pjt/assets/111493653/ea5a340a-7cc2-4041-86d2-10a8f2ea69bb)|
+ |![finalpjt_flow](https://github.com/user-attachments/assets/f1341d66-8b9d-4328-b079-1e86b2c1b0c9)|
  |:---:|
  
 </div>
