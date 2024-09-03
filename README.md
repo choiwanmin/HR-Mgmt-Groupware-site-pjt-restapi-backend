@@ -29,7 +29,7 @@
 |Front-end|`HTML`, `CSS`, `Javascript`, `Bootstrap`, `Ajax`, `JQuery`, `React`, `npm`|
 |Back-end |`Java`, `Maven`, `Spring Boot`, `Spring Data JPA`, `JDBC API`, `Oracle Driver`, `Lombok`, `Spring Security`, `WebSocket` 등|
 |DBMS|`Oracle`|
-|SEVER|`Apache Tomcat`, `AWS EC2(Ubuntu)`, `Docker` 등|
+|Server|`Apache Tomcat`, `AWS EC2(Ubuntu)`, `Docker` 등|
 |IDE|`Eclipse`, `IntelliJ`, `Oracle Sql Developer`|
 |SCM|`Git & Github`|
 |ETC.|`Notion`, `Kakaotalk`, `ChatGPT` 등|
