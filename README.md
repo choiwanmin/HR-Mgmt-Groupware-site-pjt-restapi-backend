@@ -56,6 +56,9 @@ Front-End 결과물
 <summary>DB ERD 보기</summary>
 <div markdown="1">
 
+ |![finalpjt_erd](https://github.com/user-attachments/assets/e089ae4f-fe98-44ad-860a-68801e706310)|
+ |:---:|
+ 
 </div>
 </details>
 
