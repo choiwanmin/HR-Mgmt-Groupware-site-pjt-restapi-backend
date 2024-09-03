@@ -93,7 +93,7 @@
 |:---:|
 
 ## 클라이언트 화면 UI
-<br/>*(Fullstack 작업 Github- https://github.com/choiwanmin/kosta_final_pjt_frontend_review)*
+*(Front-End 작업 Github- https://github.com/choiwanmin/kosta_final_pjt_frontend_review)*
 
 ## 기타
 > ### DB ERD
