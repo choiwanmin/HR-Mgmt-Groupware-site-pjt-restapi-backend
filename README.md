@@ -174,10 +174,39 @@
  |:---:|:---:|
  |![finalpjt_restapi_ui (26)](https://github.com/user-attachments/assets/bce0fd65-464e-4c8a-bd2d-05c87748f092)|![finalpjt_restapi_ui (27)](https://github.com/user-attachments/assets/9a198e81-6d36-4625-acd6-2355f10add76)|
 
- |1:1 메신저|그룹 메신저|
+ |1:1 대화|그룹 대화|
  |:---:|:---:|
  |![finalpjt_restapi_ui (35)](https://github.com/user-attachments/assets/62b925be-00b6-450a-bd40-c5174aeea891)|![finalpjt_restapi_ui (29)](https://github.com/user-attachments/assets/e6ffda21-b6e0-42ef-a43f-34fdeb31c191)|
 
+ |대화방 이름 변경|대화 상대 정보 조회|
+ |:---:|:---:|
+ |![finalpjt_restapi_ui (30)](https://github.com/user-attachments/assets/f75f8ee0-0d12-4c9d-b492-86e389f16149)|![finalpjt_restapi_ui (31)](https://github.com/user-attachments/assets/3aa47fd4-6d90-449d-868f-23818081924b)|
+
+</div>
+</details>
+
+<details>
+<summary>문서 페이지 보기</summary>
+<div markdown="1">
+
+ |문서함 메인|문서 작성|문서 상세 페이지|
+ |:---:|:---:|:---:|
+ |![finalpjt_restapi_ui (34)](https://github.com/user-attachments/assets/9ebf9b3c-29fc-4f9d-b86b-40a8fb0996a4)|![finalpjt_restapi_ui (33)](https://github.com/user-attachments/assets/67a3e576-a6fd-40d2-ad25-27d2d83890c6)|![finalpjt_restapi_ui (32)](https://github.com/user-attachments/assets/cb11a938-3b15-443e-ad22-c11046070921)|
+ 
+</div>
+</details>
+
+<details>
+<summary> 스케줄러 페이지 보기</summary>
+<div markdown="1">
+ 
+</div>
+</details>
+
+<details>
+<summary> 메일 페이지 보기</summary>
+<div markdown="1">
+ 
 </div>
 </details>
 
