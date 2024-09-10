@@ -191,7 +191,7 @@
 
  |문서함 메인|문서 작성|문서 상세 페이지|
  |:---:|:---:|:---:|
- |![finalpjt_restapi_ui (34)](https://github.com/user-attachments/assets/9ebf9b3c-29fc-4f9d-b86b-40a8fb0996a4)|![finalpjt_restapi_ui (33)](https://github.com/user-attachments/assets/67a3e576-a6fd-40d2-ad25-27d2d83890c6)|![finalpjt_restapi_ui (32)](https://github.com/user-attachments/assets/cb11a938-3b15-443e-ad22-c11046070921)|
+ |![finalpjt_restapi_ui (34)](https://github.com/user-attachments/assets/310c2dd2-c5e8-437b-ad62-61f6dcdcb955)|![finalpjt_restapi_ui (33)](https://github.com/user-attachments/assets/67a3e576-a6fd-40d2-ad25-27d2d83890c6)|![finalpjt_restapi_ui (32)](https://github.com/user-attachments/assets/cb11a938-3b15-443e-ad22-c11046070921)|
  
 </div>
 </details>
