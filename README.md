@@ -170,7 +170,7 @@
 <summary>메신저 페이지 보기</summary>
 <div markdown="1">
 
- |메신저 메인|메신저 멤버 초대|
+ |메신저 메인|대화 상대 초대|
  |:---:|:---:|
  |![finalpjt_restapi_ui (26)](https://github.com/user-attachments/assets/bce0fd65-464e-4c8a-bd2d-05c87748f092)|![finalpjt_restapi_ui (27)](https://github.com/user-attachments/assets/9a198e81-6d36-4625-acd6-2355f10add76)|
 
