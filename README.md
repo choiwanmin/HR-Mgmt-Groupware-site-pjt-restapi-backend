@@ -89,7 +89,50 @@
 |:---:|
 
 ## 클라이언트 화면 UI
+*※ 2024/07/15 기준 데이터 UI*
 *(Front-End 작업 repository - https://github.com/choiwanmin/kosta_final_pjt_restapi_frontend_review)*
+
+> ### 메인 관련 페이지
+
+<details>
+<summary>메인 관련 페이지 보기</summary>
+<div markdown="1">
+ 
+ |메인(로그인)|회원가입|
+ |:---:|:---:|
+ |![finalpjt_restapi_ui (2)](https://github.com/user-attachments/assets/01b69e1e-4e31-402c-a052-68c32ed0515b)|![finalpjt_restapi_ui (3)](https://github.com/user-attachments/assets/24bc0505-904a-43ad-be8b-6879ec16967d)|
+
+</div>
+</details>
+
+> ### 관리자 페이지
+
+<details>
+<summary>관리자 페이지 보기</summary>
+<div markdown="1">
+ 
+ |관리자 메인|사원 근태 관리(근무 시간)|
+ |:---:|:---:|
+ |![finalpjt_restapi_ui (4)](https://github.com/user-attachments/assets/7cb75388-8c42-46d3-b18c-5c0101c7735a)|![finalpjt_restapi_ui (5)](https://github.com/user-attachments/assets/285c7427-8fe5-4577-9040-e53d781ab5aa)|
+
+ |사원 근태 관리(초과 근무)|사원 근태 관리(부서 선택)|
+ |:---:|:---:|
+ |![finalpjt_restapi_ui (6)](https://github.com/user-attachments/assets/93b8ae50-fa55-4022-ba76-2fa1de54dcfa)|![finalpjt_restapi_ui (7)](https://github.com/user-attachments/assets/009d5462-e9d5-4180-b24c-58d3749dca7e)|
+
+ |직원 목록|사용자 로그인 정보|사용자 로그인 정보 수정|직원 이력 정보|직원 이력 정보 수정|
+ |:---:|:---:|:---:|:---:|:---:|
+ |![finalpjt_restapi_ui (14)](https://github.com/user-attachments/assets/c8ba853f-739b-4795-9d68-893b0ec43e79)|![finalpjt_restapi_ui (15)](https://github.com/user-attachments/assets/d7fcbf54-484d-48d9-b5f5-ce2cbc3116cf)|![finalpjt_restapi_ui (17)](https://github.com/user-attachments/assets/8af0a902-4ea5-48ba-81ad-1d67cbae0ae0)|![finalpjt_restapi_ui (16)](https://github.com/user-attachments/assets/4aeb8bde-ff84-49da-a374-c52280c81cce)|![finalpjt_restapi_ui (18)](https://github.com/user-attachments/assets/bc865875-1b9c-4121-b3e9-3b0dbc67e4fd)|
+
+ |부서 목록|부서 추가|
+ |:---:|:---:|
+ |![finalpjt_restapi_ui (1)](https://github.com/user-attachments/assets/7a64af12-5ec0-400f-a381-0a4a89ad75a4)|![finalpjt_restapi_ui (19)](https://github.com/user-attachments/assets/d79c02fc-2bd7-4ed8-b392-5bb1f8d12aaa)|
+
+ |직급 목록|직급 추가|
+ |:---:|:---:|
+ |![finalpjt_restapi_ui (20)](https://github.com/user-attachments/assets/497d1c4f-3908-496e-914a-fb595025b59c)|![finalpjt_restapi_ui (21)](https://github.com/user-attachments/assets/9a8f2127-01d5-470d-9078-8a86e88387de)|
+ 
+</div>
+</details>
 
 ## 기타
 > ### DB ERD
