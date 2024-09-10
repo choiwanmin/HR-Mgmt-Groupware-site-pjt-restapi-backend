@@ -89,8 +89,7 @@
 |:---:|
 
 ## 클라이언트 화면 UI
-*※ 2024/07/15 기준 데이터 UI*
-*(Front-End 작업 repository - https://github.com/choiwanmin/kosta_final_pjt_restapi_frontend_review)*
+*※ 2024/07/15 기준 데이터 UI*<br/>*(Front-End 작업 repository - https://github.com/choiwanmin/kosta_final_pjt_restapi_frontend_review)*
 
 > ### 메인 관련 페이지
 
