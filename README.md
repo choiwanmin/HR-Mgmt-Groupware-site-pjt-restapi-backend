@@ -155,6 +155,32 @@
 </div>
 </details>
 
+<details>
+<summary>공지 게시판 페이지 보기</summary>
+<div markdown="1">
+
+ |공지 게시판(전체공지)|공지작성|공지 게시판(부서공지)|
+ |:---:|:---:|:---:|
+ |![finalpjt_restapi_ui (23)](https://github.com/user-attachments/assets/fe40ddad-292a-43fe-9660-82f62c79f057)|![finalpjt_restapi_ui (24)](https://github.com/user-attachments/assets/f8f1bf7d-fc76-46b3-b85c-17dc5ad26210)|![finalpjt_restapi_ui (25)](https://github.com/user-attachments/assets/022d49ae-7b50-47de-9c31-db718bf9deed)|
+
+</div>
+</details>
+
+<details>
+<summary>메신저 페이지 보기</summary>
+<div markdown="1">
+
+ |메신저 메인|메신저 멤버 초대|
+ |:---:|:---:|
+ |![finalpjt_restapi_ui (26)](https://github.com/user-attachments/assets/bce0fd65-464e-4c8a-bd2d-05c87748f092)|![finalpjt_restapi_ui (27)](https://github.com/user-attachments/assets/9a198e81-6d36-4625-acd6-2355f10add76)|
+
+ |1:1 메신저|그룹 메신저|
+ |:---:|:---:|
+ |![finalpjt_restapi_ui (35)](https://github.com/user-attachments/assets/62b925be-00b6-450a-bd40-c5174aeea891)|![finalpjt_restapi_ui (29)](https://github.com/user-attachments/assets/e6ffda21-b6e0-42ef-a43f-34fdeb31c191)|
+
+</div>
+</details>
+
 ## 기타
 > ### DB ERD
 
