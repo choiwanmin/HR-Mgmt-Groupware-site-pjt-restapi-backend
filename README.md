@@ -134,6 +134,27 @@
 </div>
 </details>
 
+> ### 직원 페이지
+
+<details>
+<summary>직원 메인 페이지 보기</summary>
+<div markdown="1">
+
+ |직원 메인|출퇴근 관리|
+ |:---:|:---:|
+ |![finalpjt_restapi_ui (8)](https://github.com/user-attachments/assets/718a3dfd-bee5-4f0f-a770-274ee45a131e)|![finalpjt_restapi_ui (11)](https://github.com/user-attachments/assets/d73141ae-1a13-4102-9d73-ee9567db253c)|
+
+ |내 로그인 정보|내 이력 정보|
+ |:---:|:---:|
+ |![finalpjt_restapi_ui (9)](https://github.com/user-attachments/assets/f2e02f53-52a2-4b78-947b-4435c26bd3d9)|![finalpjt_restapi_ui (10)](https://github.com/user-attachments/assets/e9c40465-f0f2-4cc3-a766-07f8cd899942)|
+
+ |부서장(직원) 메인|부서 근태관리|
+ |:---:|:---:|
+ |![finalpjt_restapi_ui (12)](https://github.com/user-attachments/assets/65057be0-de1f-477b-8252-62235ae3c8a2)|![finalpjt_restapi_ui (13)](https://github.com/user-attachments/assets/65a8307a-f2a3-42ae-a8a7-7ecab4cc0662)|
+ 
+</div>
+</details>
+
 ## 기타
 > ### DB ERD
 
