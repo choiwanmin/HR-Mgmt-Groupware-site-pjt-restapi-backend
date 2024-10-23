@@ -13,7 +13,7 @@
 > ### 프로젝트 개요
 * `java`기반의 `Spring Boot` 프레임워크를 활용한 웹 풀스택 개발 후 `Rest API`로 전환 개발 수행
 * 개발 기간
-  * Fullstack 작업 기간 : 2024.05.24 ~ 2024.06.26 (34일)<br/>*(Fullstack 작업 repository - https://github.com/choiwanmin/kosta_final_pjt_fullstack_review)*
+  * Fullstack 작업 기간 : 2024.05.24 ~ 2024.06.26 (34일)<br/>*(Fullstack 작업 repository - https://github.com/choiwanmin/HR-Mgmt-Groupware-site-pjt-fullstack)*
   * Rest-API 전환 작업 기간 : 2024.07.03 ~ 2024.07.14 (12일)
 * 개발 구성원 : 5명 (`BE/FE` - 각 담당 영역의 BE/FE 작업을 진행)
 > ### 프로젝트 목표
@@ -89,7 +89,7 @@
 |:---:|
 
 ## 클라이언트 화면 UI
-*※ 2024/07/15 기준 데이터 UI*<br/>*(Front-End 작업 repository - https://github.com/choiwanmin/kosta_final_pjt_restapi_frontend_review)*
+*※ 2024/07/15 기준 데이터 UI*<br/>*(Front-End 작업 repository - https://github.com/choiwanmin/HR-Mgmt-Groupware-site-pjt-restapi-frontend)*
 
 > ### 메인 관련 페이지
 
