@@ -35,10 +35,6 @@
 ## 주요 기능
 > ### 인사 관리 기능
 
-  <details>
-  <summary>인사 관리 기능 보기</summary>
-  <div markdown="1">
-  
   * 사원 정보 관리 기능
     * 시스템 로그인 정보 관리
     * 인사 정보 관리
@@ -51,14 +47,7 @@
     * 부서 관리
     * 직급 관리 
   
-  </div>
-  </details>
-  
 > ### 협업 도구 기능
-
-  <details>
-  <summary>협업 도구 기능 보기</summary>
-  <div markdown="1">
   
   * 공지 게시판 기능
     * 전체 및 부서별 조회 및 작성 기능 
@@ -80,9 +69,6 @@
     * 자체 도메인 제공으로 사내메일 사용 가능
     * 메일함에서 받은 메일 관리
     * 반송, 공유 등 편의 기능 제공
-
- </div>
- </details>
 
 ## 프로젝트 아키텍쳐
 |![finalpjt_architecture](https://github.com/user-attachments/assets/fda679aa-ceae-4c2e-b0f2-0e44103fd022)|
